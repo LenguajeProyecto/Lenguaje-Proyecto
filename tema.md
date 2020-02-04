@@ -1,3 +1,3 @@
 .-[Clase 1](/LENGUA_archivos/LENGUA/LENGUA.htm)
 
-.-[Clase 2](/LENGUA_archivos/DERIVADAS PRODUCTO/DERIVADA DE LA MULTIPLICACION.htm)
+
