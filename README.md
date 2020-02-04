@@ -1,6 +1,6 @@
 Lenguaje Proyecto
 ---
-   1.[Temas de todas las clases del semestre](/Temas de todas las clases del semestre/LENGUA_archivos/LENGUA/LENGUA.htm)
+   1.[Temas de todas las clases del semestre](/tema.md)
    
    2.[Conferencias]
     
